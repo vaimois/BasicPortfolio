@@ -1,0 +1,149 @@
+body
+{
+ 	background-color:#d0d0d0;
+}
+
+header
+{
+
+ 	background-color:#ffffff;
+}
+
+
+footer
+{
+
+  background-color:#666666;
+  font-family:"Faustina";
+  font-size:12px;
+}
+
+p
+{
+   font-family:"Faustina";
+}
+
+title
+{
+
+	font-family:"Ubuntu";
+}
+
+h1
+{
+
+	font-family:'Ubuntu';
+    color: 'white';
+}
+
+h2
+{
+
+	font-family:'Ubuntu';
+	color:'teal';
+}
+
+h4
+{
+
+	font-family:'Ubuntu';
+
+}
+
+.hr2-line
+{
+	    border: none;
+	    height: 15px;
+		border: none;
+		color:#ffffff;
+		background-color: #4aaaa5; /* Modern Browsers */
+
+
+}
+
+
+
+.img1-text, .img2-text, .img3.text
+{
+	float:right;
+}
+
+
+.header {
+    background-color:#4aaaa5;
+    width: 250px;
+    height: 75px;
+    border: 7px #4aaaa5;
+    padding: 0px;
+    margin: 2px;
+}
+
+.col-sm-6
+{
+	height: 475px;
+    width: 50%;
+    background-color: white;
+}
+
+
+.right-image
+{
+
+	float:left;
+    top:-410px;
+	position: relative;
+	background-color: white;
+    left: 900px;
+    border: 75px solid white;
+}
+
+.form-contact
+{
+
+    float:left;
+    top:-410px;
+    position: relative;
+    background-color: white;
+    left: 900px;
+    border: 75px solid white;
+}
+
+
+
+.top-links
+{
+
+	top:-70px;
+	position: relative;
+	background-color: white;
+    left: 900px;
+    border: 3px solid white;
+}
+
+
+.set-height {
+    height:100px;
+}
+
+a:link {
+    color: grey;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+} 
+
+
+
+
